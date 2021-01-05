@@ -16,5 +16,7 @@ Used datasets:
 - diabetes.data.csv: https://github.com/balint-daniel/recipes_for_machine_learning/blob/master/diabetes.data.csv
 - housing.csv: https://www.kaggle.com/vikrishnan/boston-house-prices/download
 
-
-
+Used books:
+- Jason Brownlee: Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models, and Work Projects End-to-End
+- Julian Avila - Scikit-Learn Cookbook_ Over 80 Recipes for Machine Learning in Python With Scikit-Learn
+- Andreas C. Müller, Sarah Guido - Introduction to Machine Learning with Python_ A Guide for Data Scientists
