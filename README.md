@@ -13,9 +13,8 @@ a repertoire of skills that you can draw from when starting a new project.
 - Recipes use built-in datasets or datasets provided in specific libraries
 
 Used datasets:
-
-diabetes.data.csv: https://github.com/balint-daniel/recipes_for_machine_learning/blob/master/diabetes.data.csv
-housing.csv: https://www.kaggle.com/vikrishnan/boston-house-prices/download
+- diabetes.data.csv: https://github.com/balint-daniel/recipes_for_machine_learning/blob/master/diabetes.data.csv
+- housing.csv: https://www.kaggle.com/vikrishnan/boston-house-prices/download
 
 
 
