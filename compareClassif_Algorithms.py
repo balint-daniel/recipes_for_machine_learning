@@ -30,7 +30,7 @@ models.append(('CARTrees', DecisionTreeClassifier()))
 models.append(('NaiveBayes', GaussianNB()))
 models.append(('SVM', SVC()))
 
-# evaluate each model in turn
+# evaluate each model
 results = []
 names = []
 scoring = 'accuracy'
