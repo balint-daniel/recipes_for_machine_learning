@@ -7,8 +7,6 @@ a repertoire of skills that you can draw from when starting a new project.
 
 - Recipes are code snippets not tutorials.
 - Recipes provide just enough code to work.
-- Recipes are demonstrative not exhaustive.
-- Recipes run as-is and produce a result.
 - Recipes assume that required libraries are installed.
 - Recipes use built-in datasets or datasets provided in specific libraries
 
