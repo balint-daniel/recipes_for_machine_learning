@@ -14,6 +14,7 @@ Used datasets:
 - diabetes.data.csv: https://github.com/balint-daniel/recipes_for_machine_learning/blob/master/diabetes.data.csv
 - housing.csv: https://www.kaggle.com/vikrishnan/boston-house-prices/download
 - iris.data.csv: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+- adult.data.csv: http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 
 Used books:
 - Jason Brownlee: Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models, and Work Projects End-to-End
